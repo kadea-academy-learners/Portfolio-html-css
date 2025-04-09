@@ -9,4 +9,4 @@ ce site présente mon parcours, mes projets et permet aux visiteurs de me contac
 -Figma (design de la maquette)
 
 # Liens du site
- https://github.com/wakanzohenock/mon-portfolio.git
+https://github.com/kadea-academy-learners/Portfolio-html-css.git
